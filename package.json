@@ -1,0 +1,19 @@
+{
+  "name": "face-detection-gyandeep",
+  "version": "1.0.0",
+  "description": "This is Web Based Face Detection Demo built with Pico-JS Javascript API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technicalgyandeep/Open-CV-Face-Detection-JavaScript-Gyandeep.git"
+  },
+  "author": "Gyandeep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/technicalgyandeep/Open-CV-Face-Detection-JavaScript-Gyandeep/issues"
+  },
+  "homepage": "https://github.com/technicalgyandeep/Open-CV-Face-Detection-JavaScript-Gyandeep#readme"
+}
